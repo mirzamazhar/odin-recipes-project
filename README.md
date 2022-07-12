@@ -1,0 +1,1 @@
+Created a Simple website with a homepage that links to some recipes
